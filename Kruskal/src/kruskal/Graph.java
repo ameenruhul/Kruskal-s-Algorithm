@@ -1,3 +1,15 @@
+
+/**
+ * Date 16/11/2017
+ * @author Mohd.Ruhul Ameen
+ * ID : 1610676102
+ * Lab Assignment : CSE2222 : Design and Analysis of Algorithm Lab
+ * CSE,University of Rajshahi
+ * Kruskal's Algorithm
+ */
+
+
+
 package kruskal;
 
 import  java.util.Scanner;
